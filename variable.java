@@ -1,7 +1,7 @@
 package java;
 
 public class variable {
-    public static void main (String[] args){
+    public static void main (String args[]){
         int a=10;
         String name ="hellow";
         double b= 10.0;
@@ -19,9 +19,5 @@ public class variable {
         System.out.println(x+y+z);
         int s=10,f=20,r=30;
         System.out.println(s+f+r);
-
-    }
-
-
-    
+    }    
 }
