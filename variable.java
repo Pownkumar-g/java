@@ -1,6 +1,6 @@
 package java;
 
-public class variable {
+public class variableanddatatype {
     public static void main (String args[]){
         int a=10;
         String name ="hellow";
